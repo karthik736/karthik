@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Karthik]
 
 💻 **UI Developer** | 🌐 **Frontend Enthusiast**  
 Passionate about building responsive, user-friendly interfaces and bringing designs to life with clean, maintainable code.
@@ -39,9 +39,9 @@ Passionate about building responsive, user-friendly interfaces and bringing desi
 
 ### 🌐 Connect with Me
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: youremail@example.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/kurma karthik)  
+- Email: karthiksona81@gmail.com
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_USERNAME](https://github.com/karthik736)
