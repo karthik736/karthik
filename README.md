@@ -39,7 +39,7 @@ Passionate about building responsive, user-friendly interfaces and bringing desi
 
 ### 🌐 Connect with Me
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/kurma karthik)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/kurmakarthik)  
 - Email: karthiksona81@gmail.com
 
 ---
